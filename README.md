@@ -14,20 +14,22 @@ This is a simple calculator program written in Python that performs basic arithm
 #Getting Started
 To run this program, you'll need Python installed on your machine. You can download it from python.org.
 
-#Example
+## Example
+
 Here's a quick example of how to use the calculator:
 
-First Number: 5
-+ 
-- 
-* 
-/ 
-** 
-r
-Pick one of the symbols above: +
-Second Number: 3
-5.0 + 3.0 = 8.0
-Type 'y' to continue calculating with 8.0, or type 'n' to start a new calculation: n
+    First Number: 5
+    + 
+    - 
+    * 
+    / 
+    ** 
+    r
+    Pick one of the symbols above: +
+    Second Number: 3
+    5.0 + 3.0 = 8.0
+    Type 'y' to continue calculating with 8.0, or type 'n' to start a new calculation: n
+
 
 
 #Code Explanation
