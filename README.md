@@ -2,7 +2,7 @@
 
 This is a simple calculator program written in Python that performs basic arithmetic operations including addition, subtraction, multiplication, division, root, exponential, and basic derivative functions.
 
-#Features
+## Features
 -Addition: Adds two numbers.
 -Subtraction: Subtracts the second number from the first.
 -Multiplication: Multiplies two numbers.
@@ -11,7 +11,7 @@ This is a simple calculator program written in Python that performs basic arithm
 -Exponential: Raises the first number to the power of the second.
 -Basic Derivative: Provides guidance on assigning values for derivative calculation (note: currently not fully implemented).
 
-#Getting Started
+## Getting Started
 To run this program, you'll need Python installed on your machine. You can download it from python.org.
 
 ## Example
@@ -32,7 +32,7 @@ Here's a quick example of how to use the calculator:
 
 
 
-#Code Explanation
+## Code Explanation
 -Operations Functions: Functions for each arithmetic operation.
 
   -add(n1, n2): Returns the sum of n1 and n2.
@@ -41,7 +41,6 @@ Here's a quick example of how to use the calculator:
   -divide(n1, n2): Returns the quotient of n1 divided by n2.
   -root(n1, n2): Returns the n2th root of n1.
   -expo(n1, n2): Returns n1 raised to the power of n2.
-  -derivative(n1, n2): Placeholder function that advises assigning 0 to n2.
 
 -Calculator Function: The main function that drives the calculator program.
 
@@ -50,5 +49,5 @@ Here's a quick example of how to use the calculator:
   -Performs the chosen operation and prints the result.
   -Allows the user to continue with the result or start a new calculation.
 
-#Note
+## Note
 In the future, this code will include basic derivative calculations, basic integral calculations, and basic limit calculations.
