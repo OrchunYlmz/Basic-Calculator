@@ -32,21 +32,21 @@ Here's a quick example of how to use the calculator:
 
 
 ## Code Explanation
--Operations Functions: Functions for each arithmetic operation.
+- Operations Functions: Functions for each arithmetic operation.
 
-  -add(n1, n2): Returns the sum of n1 and n2.
-  -sub(n1, n2): Returns the difference when n2 is subtracted from n1.
-  -multiply(n1, n2): Returns the product of n1 and n2.
-  -divide(n1, n2): Returns the quotient of n1 divided by n2.
-  -root(n1, n2): Returns the n2th root of n1.
-  -expo(n1, n2): Returns n1 raised to the power of n2.
+  - add(n1, n2): Returns the sum of n1 and n2.
+  - sub(n1, n2): Returns the difference when n2 is subtracted from n1.
+  - multiply(n1, n2): Returns the product of n1 and n2.
+  - divide(n1, n2): Returns the quotient of n1 divided by n2.
+  - root(n1, n2): Returns the n2th root of n1.
+  - expo(n1, n2): Returns n1 raised to the power of n2.
 
--Calculator Function: The main function that drives the calculator program.
+- Calculator Function: The main function that drives the calculator program.
 
-  -Prompts the user for input.
-  -Displays available operations.
-  -Performs the chosen operation and prints the result.
-  -Allows the user to continue with the result or start a new calculation.
+  - Prompts the user for input.
+  - Displays available operations.
+  - Performs the chosen operation and prints the result.
+  - Allows the user to continue with the result or start a new calculation.
 
 ## Note
 In the future, this code will include basic derivative calculations, basic integral calculations, and basic limit calculations.
