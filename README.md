@@ -1,6 +1,6 @@
 # Basic-Calculator
 
-This is a simple calculator program written in Python that performs basic arithmetic operations including addition, subtraction, multiplication, division, root, exponential, and basic derivative functions.
+This is a simple calculator program written in Python that performs basic arithmetic operations including addition, subtraction, multiplication, division, root, exponential functions.
 
 ## Features
 -Addition: Adds two numbers.
@@ -9,7 +9,6 @@ This is a simple calculator program written in Python that performs basic arithm
 -Division: Divides the first number by the second.
 -Root: Computes the nth root of the first number.
 -Exponential: Raises the first number to the power of the second.
--Basic Derivative: Provides guidance on assigning values for derivative calculation (note: currently not fully implemented).
 
 ## Getting Started
 To run this program, you'll need Python installed on your machine. You can download it from python.org.
